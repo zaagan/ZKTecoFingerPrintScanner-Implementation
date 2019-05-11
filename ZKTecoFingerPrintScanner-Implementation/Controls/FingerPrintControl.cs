@@ -264,6 +264,7 @@ namespace Dofe_Re_Entry.UserControls.DeviceController
                                         Utilities.EnableControls(true, btnVerify, btnIdentify);
                                         Utilities.EnableControls(false, btnEnroll);
 
+
                                         // GET THE TEMPLATE HERE : fingerPrintTemplate
 
 
